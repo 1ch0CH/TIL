@@ -18,3 +18,7 @@
 - 📒 소성가공 및 응용
 - 📕 머신비전
 - 📗 CNN
+
+
+[출처]
+[MarkDown emoji](http://www.iemoji.com/#?category=objects&version=36&theme=appl&skintone=default)
