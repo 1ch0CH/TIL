@@ -16,7 +16,7 @@
 
 ### 📚 2021-2 Lecture
 - 📒 소성가공 및 응용
-- 📕 머신비전
+- 📕 [머신비전](https://github.com/ChaeChaeL/TIL/tree/main/2021-2_Lecture/Machine)
 - 📗 CNN
 
 
