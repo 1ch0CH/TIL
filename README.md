@@ -16,6 +16,7 @@
 * 더 많은 공유를 원하는 기록은 [블로그](https://1ch0.tistory.com/)에 포스팅한다.
 * 쉴 땐 확실히 쉬고, contributions를 초록색으로 채우는 것에 집착하지 않는다.
 * reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
+* Project는 따로 Git관리를 한다.
 
 ## 📚 Contents of study
 ### 📚 Program
@@ -24,15 +25,17 @@
 3. ✏️ ROS2
 
 ### 📚 STUDY
+- [블로그](https://1ch0.tistory.com/)
 
 
 ### 📚 PAPER
 1. 🔦 Project (DASIMA)
 2. 🔦 Project (SLAM / 3D / LIDAR)
+- [블로그](https://1ch0.tistory.com/)
 
 
 ### 📚 2021-2 Lecture
-- 📒 Manufacturing
+- 📒 Manufacturing - [블로그](https://1ch0.tistory.com/)
 - 📕 [Machine vision](https://github.com/ChaeChaeL/TIL/tree/main/2021-2_Lecture/Machine)
 - 📗 CNN
 
