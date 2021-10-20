@@ -5,7 +5,7 @@
 * 좋은 개발자가 되기 위해 하루동안 학습한 내용이나 개발관련 경험들을 기록으로 남긴다.
 
 
-[JayJin](https://github.com/milooy)님, [Lee HyunJoo](https://wayhome25.github.io/)님, [RingoPPA](https://github.com/ksu3101)님 [namjunemy](https://github.com/namjunemy/TIL)의 Github TIL을 보고 많은 영감을 얻었다.
+- [JayJin](https://github.com/milooy)님, [Lee HyunJoo](https://wayhome25.github.io/)님, [RingoPPA](https://github.com/ksu3101)님 [namjunemy](https://github.com/namjunemy/TIL)의 Github TIL을 보고 많은 영감을 얻었다.
 
   
 
@@ -14,7 +14,7 @@
 * 폴더와 파일명은 영문으로 작성한다.
 * 해당 문서를 다시 봤을 때, 추가적인 검색의 비용이 들지 않도록 자세히 기록한다.
 * 더 많은 공유를 원하는 기록은 [블로그](https://1ch0.tistory.com/)에 포스팅한다.
-* 쉴 땐 확실히 쉬고, contributions를 초록색으로 채우는 것에 집착하지 않는다.
+* Version 기록을 위해 날짜를 명시하고 제목은 최대한 내용을 대표할 수 있는 것으로 작성한다.
 * reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 * Project는 따로 Git관리를 한다.
 
@@ -28,17 +28,36 @@
 ### 📚 STUDY
 - [블로그](https://1ch0.tistory.com/)
 
-
 ### 📚 PAPER
 1. 🔦 Project (DASIMA)
 2. 🔦 Project (SLAM / 3D / LIDAR)
 - [블로그](https://1ch0.tistory.com/)
 
-
 ### 📚 2021-2 Lecture
 - 📒 Manufacturing - [블로그](https://1ch0.tistory.com/)
 - 📕 [Machine vision](https://github.com/ChaeChaeL/TIL/tree/main/2021-2_Lecture/Machine)
 - 📗 CNN
+-------
+# Program
+## Python
+### Langauge
+- Class
+- 연산자 오버로딩
+### Library
+- Opencv 
+- Open3D
+- Pandas
+- PIL
+- Numpy
+- matplotlib
+
+## C ++
+### Library 
+- Ceres
+- g2o
+
+## ROS2
+## Docker
 
 
 [출처]
