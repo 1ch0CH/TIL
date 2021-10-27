@@ -33,3 +33,14 @@ $ roslaunch floam_ssl floam_ssl_mapping.launch
 ```
 
 ## Dockerfile 만들 때 !
+
+
+# tmux
+- tmux 이용해서 bind 하자!
+
+```
+$ sudo apt install tmux
+```
+## 단축키
+- <Ctrl+b> >> % : 나누기
+- [참고](https://dgkim5360.tistory.com/entry/the-first-steps-for-tmux-terminal-multiplexer)
