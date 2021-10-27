@@ -1,4 +1,5 @@
 # Docker
+- 211027 Docker를 사용하게 된 이유 : a-loam을 사용하기 위해서 : a loam의 ros-kinetic-perception version에는 rviz가 없는듯? -> 확인 해보자
 ## Docker 사용 시 sudo 없이 사용하기
 
 > sudo usermod -aG docker [현재 사용자]
