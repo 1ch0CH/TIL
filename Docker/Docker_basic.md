@@ -32,7 +32,7 @@ $ source ./devel/setup.bash
 
 $ roslaunch aloam_velodyne aloam_velodyne_VLP_16.launch
 ```
-
+-> 멍청하다 여기 안에있는 도커 파일은 aloam 꺼야!
 ## Dockerfile
 ```
 FROM ros:kinetic-perception
