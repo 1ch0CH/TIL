@@ -11,7 +11,7 @@
 
 
 
-# [참고](https://hub.docker.com/r/celinachild/floam-ssl) 를 통한 docker 명령어
+# [참고](https://hub.docker.com/r/celinachild/floam-ssl) 를 통한 docker 명령어 알기
 
 ```
 (1) Install docker
